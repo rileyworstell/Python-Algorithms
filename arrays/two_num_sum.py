@@ -8,14 +8,30 @@ to itself in order to obtain the target sum.
 You can assume there will be at most one pair of numbers summing up to the target sum.
 """
 
+# O(n) time | O(n) space
+# def two_number_sum(array, targetSum):
+#     arr = []
+#     for i in array:
+#         if (targetSum - i) in arr:
+#             x = arr.index(targetSum-i)
+#             return [targetSum-i, i]
+#         arr.append(i)
+#     return []
 
+
+# O(nlog(n)) time | O(1) space
 def two_number_sum(array, targetSum):
-    arr = []
-    for i in array:
-        if (targetSum - i) in arr:
-            x = arr.index(targetSum-i)
-            return [targetSum-i, i]
-        arr.append(i)
+    array.sort()
+    left = 0
+    right = len(array) - 1
+    while left < right:
+        currentSum = array[left] + array[right]
+        if currentSum == targetSum:
+            return [array[left], array[right]]
+        elif currentSum < targetSum:
+            left += 1
+        elif currentSum > targetSum:
+            right -= 1
     return []
 
 

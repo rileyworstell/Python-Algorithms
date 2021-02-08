@@ -6,7 +6,6 @@ in the array. For instance, the numbers [1, 3, 4] form a subsdq of the array [1,
 
 
 def is_valid_subsequence(array, sequence):
-    # Write your code here.
     pointerArray = 0
     pointerSequence = 0
     while pointerSequence < len(sequence):
