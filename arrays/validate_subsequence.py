@@ -5,6 +5,7 @@ in the array. For instance, the numbers [1, 3, 4] form a subsdq of the array [1,
 """
 
 
+# O(n) Time & O(1) Space
 def is_valid_subsequence(array, sequence):
     pointerArray = 0
     pointerSequence = 0
@@ -19,3 +20,8 @@ def is_valid_subsequence(array, sequence):
             pointerArray += 1
             pointerSequence += 1
     return True
+
+
+array = [5, 1, 22, 25, 6, -1, 8, 10]
+sequence = [1, 6, -1, 10]
+print(is_valid_subsequence(array, sequence))
