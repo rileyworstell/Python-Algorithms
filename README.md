@@ -1,6 +1,6 @@
 Algorithms Implemented in Python  
 
-##Arrays  
+## Arrays  
 Is Monotonic  
 Minimum Rewards  
 Move Element To End  
@@ -11,11 +11,11 @@ Two Number Sum
 Validate Subsequence  
 Zig Zag Traverse    
 
-##Graphs  
+## Graphs  
 Breadth First Search  
 Depth First Search  
 
-##Sorting  
+## Sorting  
 Bubble Sort  
 Insertion Sort  
 Selection Sort  
