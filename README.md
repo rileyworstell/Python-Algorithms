@@ -14,6 +14,7 @@ Zig Zag Traverse
 ## Graphs  
 Breadth First Search  
 Depth First Search  
+Has Single Cycle  
 
 ## Sorting  
 Bubble Sort  
