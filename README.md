@@ -11,10 +11,18 @@ Two Number Sum
 Validate Subsequence  
 Zig Zag Traverse    
 
+## Binary Trees  
+Binary Tree Diameter  
+Branch Sums  
+Invert Binary Tree  
+
 ## Graphs  
 Breadth First Search  
 Depth First Search  
 Has Single Cycle  
+
+## Heaps  
+Minimum Heap Construction  
 
 ## Sorting  
 Bubble Sort  
