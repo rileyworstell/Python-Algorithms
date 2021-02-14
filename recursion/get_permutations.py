@@ -1,21 +1,24 @@
 """
-
+Return all permutations of an array.
 """
 
 
+# O(n^2 * n!) Time & O(n *n!) Space
 def get_permutations(array):
     permutations = []
-    for i in range(len(array)):
-        x = perm_helper(array[:i] + array[i+1:])
-        for j in x:
-            permutations.append([array[i], j[0], j[1]])
+    helper(array, [], permutations)
     return permutations
 
 
-def perm_helper(array):
-    if len(array) == 2:
-        return [[array[0], array[1]], [array[1], array[0]]]
+def helper(array, perm, perms):
+    if len(array) == 0 and len(perm):
+        perms.append(perm)
+    else:
+        for i in range(len(array)):
+            new_array = array[:i] + array[i+1:]
+            new_perm = perm + [array[i]]
+            helper(new_array, new_perm, perms)
 
 
-array = [1, 2, 3, 4]
+array = [1, 2, 3]
 print(get_permutations(array))
