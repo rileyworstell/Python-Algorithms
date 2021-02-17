@@ -37,4 +37,7 @@ Three Number Sort
 Quick Sort  
 
 ## Strings  
+Is A Palindrome  
 Reverse Words  
+Roman Numeral To Int  
+
