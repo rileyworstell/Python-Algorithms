@@ -32,12 +32,16 @@ Product Sum
 ## Sorting  
 Bubble Sort  
 Insertion Sort  
+Merge Sort   
 Selection Sort  
 Three Number Sort  
 Quick Sort  
 
 ## Strings  
+Caesar Cipher Encryptor  
 Is A Palindrome  
 Reverse Words  
 Roman Numeral To Int  
+Run Length Encoding  
+
 
