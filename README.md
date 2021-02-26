@@ -14,6 +14,7 @@ Zig Zag Traverse
 ## Binary Search Trees  
 Binary Search Tree Construction  
 Closest Value in BST   
+Find Successor  
 Validate BST  
 
 ## Binary Trees  
