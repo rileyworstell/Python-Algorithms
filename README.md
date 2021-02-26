@@ -11,6 +11,11 @@ Two Number Sum
 Validate Subsequence  
 Zig Zag Traverse    
 
+## Binary Search Trees  
+Binary Search Tree Construction  
+Closest Value in BST   
+Validate BST  
+
 ## Binary Trees  
 Binary Tree Diameter  
 Branch Sums  
