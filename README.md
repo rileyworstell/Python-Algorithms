@@ -4,6 +4,7 @@ Algorithms Implemented in Python
 Is Monotonic  
 Minimum Rewards  
 Move Element To End  
+Sorted Squares Array  
 Smallest Difference  
 Spiral Traverse  
 Three Number Sum  
