@@ -1,4 +1,6 @@
 Algorithms Implemented in Python  
+The folders represent the following Sections:  
+Arrays, Binary Search Trees, Binary Trees, Graphs, Heaps, Recursion, Sorting, Strings
 
 ## Arrays  
 Is Monotonic  
@@ -36,10 +38,6 @@ Minimum Heap Construction
 Nth Fibonacci  
 Product Sum  
 
-## Strings  
-Search In Sorted Matrix  
-
-
 ## Sorting  
 Bubble Sort  
 Insertion Sort  
@@ -55,5 +53,6 @@ Is A Palindrome
 Reverse Words  
 Roman Numeral To Int  
 Run Length Encoding  
+Search In Sorted Matrix  
 
 
