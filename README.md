@@ -1,6 +1,7 @@
 Algorithms Implemented in Python  
 The folders represent the following Sections:  
-Arrays, Binary Search Trees, Binary Trees, Graphs, Heaps, Recursion, Sorting, Strings
+Arrays, Binary Search Trees, Binary Trees, Graphs, Heaps, Recursion, Sorting, and Strings.  
+Enjoy ^__^  
 
 ## Arrays  
 Is Monotonic  
