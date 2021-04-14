@@ -8,6 +8,7 @@ Sorted Squares Array
 Smallest Difference  
 Spiral Traverse  
 Three Number Sum  
+Tournament Winner  
 Two Number Sum  
 Validate Subsequence  
 Zig Zag Traverse    
@@ -49,6 +50,7 @@ Quick Sort
 
 ## Strings  
 Caesar Cipher Encryptor  
+Generate Document  
 Is A Palindrome  
 Reverse Words  
 Roman Numeral To Int  
