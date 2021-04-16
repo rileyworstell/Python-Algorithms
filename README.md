@@ -1,6 +1,6 @@
 Algorithms Implemented in Python  
 The folders represent the following Sections:  
-Arrays, Binary Search Trees, Binary Trees, Graphs, Heaps, Recursion, Sorting, and Strings.  
+Arrays, Binary Search Trees, Binary Trees, Graphs, Heaps, Recursion, Sorting, Stacks, and Strings.  
 Enjoy ^__^  
 
 ## Arrays  
@@ -46,6 +46,9 @@ Merge Sort
 Selection Sort  
 Three Number Sort  
 Quick Sort  
+
+## Stacks  
+Min Max Stack  
 
 ## Strings  
 Caesar Cipher Encryptor  
