@@ -48,7 +48,9 @@ Three Number Sort
 Quick Sort  
 
 ## Stacks  
+Balanced Brackets  
 Min Max Stack  
+Sort Stack  
 
 ## Strings  
 Caesar Cipher Encryptor  
