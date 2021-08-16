@@ -9,3 +9,7 @@ def whichUnique(arr):
 
 print(whichUnique([2, 2, 1, 1, 4]))
 # 4
+
+# explanation of algorithm:
+# 2 * (a + b + c) - (a + a + b + b + c) = c
+# therefore c = 2 * sum of unique values - total sum
