@@ -31,6 +31,9 @@ Binary Tree Diameter
 Branch Sums  
 Invert Binary Tree  
 
+## Dynamic Programming  
+Max Sum Increasing Subsequence  
+
 ## Graphs  
 Breadth First Search  
 Depth First Search  
