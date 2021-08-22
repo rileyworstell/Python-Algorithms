@@ -30,6 +30,7 @@ Validate BST
 Binary Tree Diameter  
 Branch Sums  
 Invert Binary Tree  
+Max Path Sum  
 
 ## Dynamic Programming  
 Max Sum Increasing Subsequence  
