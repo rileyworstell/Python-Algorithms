@@ -64,6 +64,7 @@ Sort Stack
 Caesar Cipher Encryptor  
 Generate Document  
 Is A Palindrome  
+Longest Palindromic Substring  
 Reverse Words  
 Roman Numeral To Int  
 Run Length Encoding  
