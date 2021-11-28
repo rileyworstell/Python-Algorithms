@@ -10,6 +10,7 @@ Calendar Matching
 Is Monotonic  
 Is Mountain  
 Largest Range  
+Minimum Area Rectangle  
 Minimum Rewards  
 Move Element To End  
 Sorted Squares Array  
