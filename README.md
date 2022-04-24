@@ -33,15 +33,20 @@ Validate BST
 ## Binary Trees  
 Binary Tree Diameter  
 Branch Sums  
+Duplicate SubTrees  
 Invert Binary Tree  
 Max Path Sum  
 
 ## Dynamic Programming  
+Climb Stairs  
+Coin Change  
+Longest Increasing Subsequence  
 Max Sum Increasing Subsequence  
 
 ## Graphs  
 Breadth First Search  
 Depth First Search  
+Find Recipes
 Has Single Cycle  
 
 ## Heaps  
