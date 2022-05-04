@@ -24,6 +24,11 @@ Which is Unique
 Zig Zag Traverse    
 Zeros To End  
 
+## Binary  
+Counting Bits  
+Number of 1 Bits  
+Sum of 2 Integers  
+
 ## Binary Search Trees  
 Binary Search Tree Construction  
 Closest Value in BST   
@@ -40,8 +45,11 @@ Max Path Sum
 ## Dynamic Programming  
 Climb Stairs  
 Coin Change  
+Longest Common Subsequence  
 Longest Increasing Subsequence  
 Max Sum Increasing Subsequence  
+Word Break  
+Unique Paths  
 
 ## Graphs  
 Breadth First Search  
@@ -50,7 +58,9 @@ Find Recipes
 Has Single Cycle  
 
 ## Heaps  
+Kth Largest Element  
 Minimum Heap Construction  
+Top K Frequent Elements  
 
 ## Recursion  
 Nth Fibonacci  
@@ -79,4 +89,5 @@ Roman Numeral To Int
 Run Length Encoding  
 Search In Sorted Matrix  
 
-
+## Tries  
+Trie  
