@@ -6,7 +6,7 @@ class Trie:
         self.value = value
         self.children = []
         
-
+    # Time and Space O(m) where m is the key length
     def insert(self, word: str) -> None:
         if len(word) == 0:
             return
@@ -21,7 +21,7 @@ class Trie:
             self.children.append(Trie(word[0]))
             self.children[-1].insert(word[1:])
         
-
+    # O(m) time O(1) space (in ideal if we did iterative, here we did recursive so O(m))
     def search(self, word: str) -> bool:
         if len(word) == 0:
             return True

@@ -27,4 +27,4 @@ class Solution:
 
 
 x = Solution()
-print(x.getSum(2, 3))
+print(x.getSum(5, 7))

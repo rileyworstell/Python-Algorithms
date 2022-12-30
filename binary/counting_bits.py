@@ -14,5 +14,5 @@ class Solution:
 
 
 x = Solution()
-print(x.countBits(10)) # [0, 1, 1]
+print(x.countBits(10)) # [0, 1, 1, 2, 1, 2, 2, 3, 1, 2, 2]
         
